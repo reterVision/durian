@@ -15,3 +15,11 @@
 *.exe
 *.out
 *.app
+
+# Kernel objects
+*.mod.*
+*.cmd
+*.ko
+*.order
+tmp_versions
+*.symvers
