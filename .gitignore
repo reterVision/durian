@@ -21,5 +21,5 @@
 *.cmd
 *.ko
 *.order
-tmp_versions
+tmp_versions/
 *.symvers
